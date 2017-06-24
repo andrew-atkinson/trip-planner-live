@@ -1,7 +1,6 @@
 {
   "name": "tripplanner",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "build-css": "node-sass -w -r assets/stylesheets -o public/stylesheets",
@@ -26,5 +25,14 @@
   "devDependencies": {
     "node-sass": "^3.8.0",
     "nodemon": "^1.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-atkinson/trip-planner-live.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrew-atkinson/trip-planner-live/issues"
+  },
+  "homepage": "https://github.com/andrew-atkinson/trip-planner-live#readme",
+  "description": ""
 }
